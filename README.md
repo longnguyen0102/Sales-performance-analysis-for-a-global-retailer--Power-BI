@@ -27,7 +27,7 @@ Tools Used: Power BI
 
  _Example:_
 
- This project analyzes sales trends and inventory control using SQL and Power BI. The objective is
+ This project analyzes sales trends and inventory control using SQL and Power BI. The objective is  
 ✔️ Identify high-demand products and sales trends.  
 ✔️ Optimize inventory levels to prevent overstocking or stockouts.  
 ✔️ Provide actionable insights through Power BI dashboards.  
@@ -63,49 +63,52 @@ Using 3 tables in .csv format
 ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/table_schema.png)  
 
 <details>
- <summary>Table 1: "Orders" Table:</summary>
+ <summary>Table 1: "Orders" table:</summary>
 
  | Column Name | Data Type | Description |  
  |-------------|----------|-------------|  
- | Order ID | TEXT | ID for orders |
+ | Order ID | TEXT | ID of orders |
  | Order Date | DATE | Date for orders |  
- | Ship Date | DATE | Product category |  
- | Ship Mode | TEXT | 
- | Customer ID | TEXT |
- | Customer Name | TEXT |
- | Segment | TEXT |
- | City | TEXT |
- | State | TEXT |
- | Country | TEXT |
- | Postal Code | WHOLE NUMBER |
+ | Ship Date | DATE | Delivery date |  
+ | Ship Mode | TEXT | Delivery mode |
+ | Customer ID | TEXT | ID of customers |
+ | Customer Name | TEXT | Name of customers |
+ | Segment | TEXT | Customers segmentation |
+ | City | TEXT | Order location (city) |
+ | State | TEXT | Order location (state) |
+ | Country | TEXT | Order location (country) |
+ | Postal Code | WHOLE NUMBER | Postal code |
  | Market | TEXT |
  | Region | TEXT |
- | Product ID | TEXT |
- | Category | TEXT |
- | Sub-Category | TEXT |
- | Product Name | TEXT |
- | Sales | DECIMAL NUMBER |
- | Quantity | WHOLE NUMBER |
- | Profit | DECIMAL NUMBER |
+ | Product ID | TEXT | ID of products |
+ | Category | TEXT | Products segmentation |
+ | Sub-Category | TEXT | Products sub-segmentation |
+ | Product Name | TEXT | Name of products |
+ | Sales | DECIMAL NUMBER | Products sales |
+ | Quantity | WHOLE NUMBER | Products selling number |
+ | Profit | DECIMAL NUMBER | Products profit |
 
 </details>
 
-Table 2: Sales Transactions  
+<details>
+ <summary>Table 2: "People" table:</summary>
 
-👉🏻 Insert a screenshot of table schema. if table is too long, only show a snapshot of it. Recommend to put it in a toggle format
+ | Column Name | Data Type | Description |  
+ |-------------|----------|-------------|  
+ | Person | TEXT | Manager name | 
+ | Region | TEXT | Management location |
 
+</details>
 
- _Example:_
+<details>
+ <summary>Table 3: "Returns" table:</summary>
 
-| Column Name    | Data Type | Description |  
-|---------------|----------|-------------|  
-| Transaction_ID | INT      | Unique identifier for each sale |  
-| Product_ID     | INT      | Foreign key linking to Products table |  
-| Quantity       | INT      | Number of items sold |  
-| Sale_Date      | DATE     | Date of transaction |  
+ | Column Name | Data Type | Description |  
+ |-------------|----------|-------------|  
+ | Order ID | TEXT | ID of returned orders | 
+ | Returned | TEXT | Returned confirmation |
 
-
-📌If the table is too big, only capture a part of it that contains key metrics you used in the projects or put the table in toggle
+</details>
 
 #### 3️⃣ Data Relationships:  
 Describe the connections between tables—e.g., one-to-many, many-to-many.  
