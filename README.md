@@ -54,24 +54,41 @@ Mention who might benefit from this project
 ### 📊 Data Structure & Relationships  
 
 #### 1️⃣ Tables Used:  
-Mention how many tables are in the dataset.  
+Using 3 tables in .csv format
 
 #### 2️⃣ Table Schema & Data Snapshot  
 
-Table 1: Products Table  
+#### Table schema  
 
-👉🏻 Insert a screenshot of table schema. if table is too long, only show a snapshot of it. Recommend to put it in a toggle format
+![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/table_schema.png)  
 
- _Example:_
+<details>
+ <summary>Table 1: "Orders" Table:</summary>
 
-| Column Name | Data Type | Description |  
-|-------------|----------|-------------|  
-| Product_ID  | INT      | Unique identifier for each product |  
-| Name        | TEXT     | Product name |  
-| Category    | TEXT     | Product category |  
-| Price       | FLOAT    | Price per unit |  
+ | Column Name | Data Type | Description |  
+ |-------------|----------|-------------|  
+ | Order ID | TEXT | ID for orders |
+ | Order Date | DATE | Date for orders |  
+ | Ship Date | DATE | Product category |  
+ | Ship Mode | TEXT | 
+ | Customer ID | TEXT |
+ | Customer Name | TEXT |
+ | Segment | TEXT |
+ | City | TEXT |
+ | State | TEXT |
+ | Country | TEXT |
+ | Postal Code | WHOLE NUMBER |
+ | Market | TEXT |
+ | Region | TEXT |
+ | Product ID | TEXT |
+ | Category | TEXT |
+ | Sub-Category | TEXT |
+ | Product Name | TEXT |
+ | Sales | DECIMAL NUMBER |
+ | Quantity | WHOLE NUMBER |
+ | Profit | DECIMAL NUMBER |
 
-
+</details>
 
 Table 2: Sales Transactions  
 
