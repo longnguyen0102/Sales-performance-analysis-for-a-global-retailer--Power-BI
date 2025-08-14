@@ -192,7 +192,7 @@ Explain the step-by-step approach taken to solve the problem.
 
 #### 2️⃣ Dashboard 2 Preview  
 
-![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/product.png)  
+![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/region.png)  
 
 
 ##### 📌 Analysis 2:   
@@ -201,7 +201,7 @@ Explain the step-by-step approach taken to solve the problem.
 
 #### 3️⃣ Dashboard 3 Preview  
 
-![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/region.png)
+![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/product.png)
 
 ##### 📌 Analysis 3:  
 - Observation: _Describe trends, key metrics, and patterns. Any insights from those observation_  
