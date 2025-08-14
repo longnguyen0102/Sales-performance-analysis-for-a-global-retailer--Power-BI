@@ -136,6 +136,13 @@ Explain the step-by-step approach taken to solve the problem.
 ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/Design%20Thinking/stage_1_stakeholde_need.png)
 
 2️⃣ Define point of view  
+
+![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/Design%20Thinking/stage_2_define_pov.png)  
+
+![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/Design%20Thinking/stage_2_north_star_metric.png)
+
+![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/Design%20Thinking/stage_2_growth_formula.png)
+
 3️⃣ Ideate  
 4️⃣ Prototype and review  
 
