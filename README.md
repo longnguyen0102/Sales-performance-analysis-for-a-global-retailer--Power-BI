@@ -173,16 +173,29 @@ Explain the step-by-step approach taken to solve the problem.
 
 ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/overview.png)  
 
-📌 Analysis 1:  
+##### 📌 Analysis 1:  
 - Observation: _Describe trends, key metrics, and patterns. Any insights from those observation_  
-- Recommendation: _Suggest actions based on insights._  
+- Recommendation: _Suggest actions based on insights._
+
+<details>
+ <summary>Dashboard "Overview" in 2011, 2012, 2013, 2014:</summary>
+
+ ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/overview_2011.png)
+
+ ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/overview_2012.png)
+
+ ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/overview_2013.png)
+
+ ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/overview_2014.png)
+ 
+</details>
 
 #### 2️⃣ Dashboard 2 Preview  
 
 ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/product.png)  
 
 
-📌 Analysis 2:   
+##### 📌 Analysis 2:   
 - Observation: _Describe trends, key metrics, and patterns. Any insights from those observation_  
 - Recommendation: _Suggest actions based on insights._  
 
@@ -190,7 +203,7 @@ Explain the step-by-step approach taken to solve the problem.
 
 ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/region.png)
 
-📌 Analysis 3:  
+##### 📌 Analysis 3:  
 - Observation: _Describe trends, key metrics, and patterns. Any insights from those observation_  
 - Recommendation: _Suggest actions based on insights._  
 
