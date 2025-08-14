@@ -127,13 +127,13 @@ Explain the step-by-step approach taken to solve the problem.
 
 1️⃣ Empathize  
 
-![](https://github.com/longnguyen0102/photo/tree/main/SuperStore-power-bi/Design%20Thinking/stage_1_5w1h_1.png)
+![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/Design%20Thinking/stage_1_5w1h_1.png)
 
-![](https://github.com/longnguyen0102/photo/tree/main/SuperStore-power-bi/Design%20Thinking/stage_1_5w1h_2.png)
+![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/Design%20Thinking/stage_1_5w1h_2.png)
 
-![](https://github.com/longnguyen0102/photo/tree/main/SuperStore-power-bi/Design%20Thinking/stage_1_empathy_map.png)
+![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/Design%20Thinking/stage_1_empathy_map.png)
 
-![](https://github.com/longnguyen0102/photo/tree/main/SuperStore-power-bi/Design%20Thinking/stage_1_stakeholde_need.png)
+![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/Design%20Thinking/stage_1_stakeholde_need.png)
 
 2️⃣ Define point of view  
 3️⃣ Ideate  
