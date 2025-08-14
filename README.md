@@ -125,7 +125,7 @@ Explain the step-by-step approach taken to solve the problem.
 
 👉🏻 Insert a screenshot of the Design Thinking steps (Screenshot your Excel design thinking tables for better presentation).  
 
-1️⃣ Empathize  
+##### 1️⃣ Empathize  
 
 ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/Design%20Thinking/stage_1_5w1h_1.png)
 
@@ -135,7 +135,7 @@ Explain the step-by-step approach taken to solve the problem.
 
 ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/Design%20Thinking/stage_1_stakeholde_need.png)
 
-2️⃣ Define point of view  
+#### 2️⃣ Define point of view  
 
 ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/Design%20Thinking/stage_2_define_pov.png)  
 
@@ -143,8 +143,8 @@ Explain the step-by-step approach taken to solve the problem.
 
 ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/Design%20Thinking/stage_2_growth_formula.png)
 
-3️⃣ Ideate  
-4️⃣ Prototype and review  
+#### 3️⃣ Ideate  
+#### 4️⃣ Prototype and review  
 
 ---
 
@@ -170,21 +170,25 @@ Explain the step-by-step approach taken to solve the problem.
 ### 🔍 Dashboard Preview  
 
 #### 1️⃣ Dashboard 1 Preview  
-👉🏻 Insert Power BI dashboard screenshots here  
+
+![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/overview.png)  
 
 📌 Analysis 1:  
 - Observation: _Describe trends, key metrics, and patterns. Any insights from those observation_  
 - Recommendation: _Suggest actions based on insights._  
 
 #### 2️⃣ Dashboard 2 Preview  
-👉🏻 Insert Power BI dashboard screenshots here
+
+![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/product.png)  
+
 
 📌 Analysis 2:   
 - Observation: _Describe trends, key metrics, and patterns. Any insights from those observation_  
 - Recommendation: _Suggest actions based on insights._  
 
 #### 3️⃣ Dashboard 3 Preview  
-👉🏻 Insert Power BI dashboard screenshots here  
+
+![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/region.png)
 
 📌 Analysis 3:  
 - Observation: _Describe trends, key metrics, and patterns. Any insights from those observation_  
