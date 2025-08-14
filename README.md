@@ -148,23 +148,6 @@ Explain the step-by-step approach taken to solve the problem.
 
 ---
 
-## ⚒️ Main Process
-
-1️⃣ Data Cleaning & Preprocessing 
-2️⃣ Exploratory Data Analysis (EDA)  
-3️⃣ SQL/ Python Analysis 
-
-- In each step, show your Code
-
-- Include query/ code execution screenshots or result samples
-
-- Explain its purpose and its findings
-
-
-4️⃣ Power BI Visualization  (applicable for PBI Projects)
-
----
-
 ## 📊 Key Insights & Visualizations  
 
 ### 🔍 Dashboard Preview  
