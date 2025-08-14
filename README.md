@@ -47,9 +47,9 @@ Mention who might benefit from this project
 ## 📂 Dataset Description & Data Structure  
 
 ### 📌 Data Source  
-- Source: (Mention where the dataset is obtained from—Kaggle, company database, government sources, etc.)  
-- Size: (Mention the number of rows & columns)  
-- Format: (.csv, .sql, .xlsx, etc.)  
+- Source: Company database  
+- Size: The dataset has 3 tables: Orders, People, Returns. Orders (20 columns, 51293 rows); People (2 columns, 15 rows); Returns (2 columns, 1174 rows).    
+- Format: .csv  
 
 ### 📊 Data Structure & Relationships  
 
@@ -60,7 +60,7 @@ Using 3 tables in .csv format
 
 #### Table schema  
 
-![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/table_schema.png)  
+![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/Design%20Thinking/stage_1_dataset.png)  
 
 <details>
  <summary>Table 1: "Orders" table:</summary>
@@ -111,9 +111,11 @@ Using 3 tables in .csv format
 </details>
 
 #### 3️⃣ Data Relationships:  
-Describe the connections between tables—e.g., one-to-many, many-to-many.  
 
-👉🏻 Include a screenshot of Data Modeling to visualize relationships.  
+![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/table_schema.png)
+
+- The connection between Returns.csv and Orders.csv is one-to-many with column "Order ID".
+- The connection between People.csv and Orders. csv is one-to-many with column "Region".    
 
 ---
 
