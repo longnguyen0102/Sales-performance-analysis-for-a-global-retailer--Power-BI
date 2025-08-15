@@ -157,13 +157,18 @@ Explain the step-by-step approach taken to solve the problem.
 ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/overview.png)  
 
 ##### 📌 Analysis 1:  
-- Observation: _Describe trends, key metrics, and patterns. Any insights from those observation_  
+
+**Observation:**
+
+  
 - Recommendation: _Suggest actions based on insights._
 
 <details>
  <summary>Dashboard "Overview" in 2011, 2012, 2013, 2014:</summary>
 
- ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/overview_2011.png)
+ | Column Name | Data Type | Description |  
+ |-------------|----------|-------------|
+ | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/overview_2011.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/overview_2012.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/overview_2013.png) |
 
  ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/overview_2012.png)
 
