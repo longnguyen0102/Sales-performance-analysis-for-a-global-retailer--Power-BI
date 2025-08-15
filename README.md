@@ -166,16 +166,10 @@ Explain the step-by-step approach taken to solve the problem.
 <details>
  <summary>Dashboard "Overview" in 2011, 2012, 2013, 2014:</summary>
 
- | Column Name | Data Type | Description |  
- |-------------|----------|-------------|
- | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/overview_2011.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/overview_2012.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/overview_2013.png) |
+ | 2011 | 2012 | 2013 | 2014 |  
+ |-------------|----------|-------------|-------------|
+ | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/overview_2011.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/overview_2012.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/overview_2013.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/overview_2014.png) |
 
- ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/overview_2012.png)
-
- ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/overview_2013.png)
-
- ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/overview_2014.png)
- 
 </details>
 
 #### 2️⃣ Dashboard 2 Preview  
