@@ -220,6 +220,8 @@ Explain the step-by-step approach taken to solve the problem.
 
 #### 👁️ Observation:
 
+*Click on each photo for closer look*
+
 | Cisco Smart Phone, Full Size | Motorola Smart Phone, Full Size | Nokia Smart Phone, Full Size | Canon imageCLASS 2200 Advanced Copier | Apple Smart Phone | 
 |-------------|----------|-------------|-------------|-------------|
 | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/product_cisco_smart_phone.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/product_motorola_smart_phone.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/product_nokia_smart_phone.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/product_canon.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/product_apple_smart_phone.png) |
