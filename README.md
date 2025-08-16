@@ -198,13 +198,21 @@ On the regional side:
 
 *Click on each photo for closer look*
 
-| Total Profit | Canada | Central Asia | South East Asia | North Asia | Central US | EMEA |  
+| Total Profit | Canada | Central Asia | Southeast Asia | North Asia | Central US | EMEA |  
 |-------------|----------|-------------|-------------|-------------|-------------|-------------|
 | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/region_total_profit.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/region_canada.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/region_central_asia.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/region_southeast_asia.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/region_north_asia.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/region_central_us.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/region_emea.png) |
 
-
+- **Canada** remains the region with the highest **Profit ($17,817.39 at 21.02%)**, followed by **North Asia ($165,578.42 at 16.33%)** and **Central Asia ($132,480.19 at 14.96%)**.
+- In terms of **Total Revenue**, Canada ranks last **($66,928.17)**. **Central US** leads with nearly **$3M**, while **North Asia ($848,309.78)** and **Central Asia ($752,826.57)** are both under $1M.
+- Looking at **Profit Margin** by product category, Canada is the most balanced across **Furniture (24.7%)**, **Office Supplies (26.5%)**, and **Technology (27.6%)**. North Asia and Central Asia show slightly lower but still solid margins (all above 15%). By contrast, **Central US** and **Southeast Asia** report **negative margins** in **Furniture**, while **EMEA** shows consistent margins across all three product groups.
+- **North Asia** records the highest **Return Rate (13.8%)**. For **Canada**, **Africa**, and **EMEA**, return data is missing. **Central Asia (2.3%)**, **Caribbean (2.9%)**, and **South US (2.9%)** have the lowest return rates.
+- **Canada** and **South US** both show relatively low **Total Orders** (**201 and 822**, respectively, from 2011–2014). On the other hand, **Central EU (2,576 orders)**, **EMEA (2,462 orders)**, and **Africa (2,232 orders)** lead in total order volume.  
 
 #### ✔️ Recommendation:
+
+Based on the data, the **US** can be considered a strong candidate for short-term expansion. Its **Total Sales**, **Total Profit**, and **Return Rate** are all stable, making it suitable for near-term investment.  
+For the **medium term**, **North Asia** and **Central Asia** present good opportunities. Strategic approaches such as **flexible pricing** and **operational cost optimization** could further enhance performance in these regions.  
+In the long term, **LATAM (South and Central America)** could be explored through **small-scale pilot** projects before committing fully. The company should gradually build logistics networks to support customers, while running **demand-stimulation** campaigns to test market response and customer behavior prior to a full-scale entry.  
 
 #### 3️⃣ Dashboard 3 Preview  
 
