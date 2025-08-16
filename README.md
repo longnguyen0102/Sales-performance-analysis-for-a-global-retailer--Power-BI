@@ -158,6 +158,8 @@ Explain the step-by-step approach taken to solve the problem.
 
 #### 👁️ Observation:
 
+*Click on each photo for closer look*
+
 | 2011 | 2012 | 2013 | 2014 |  
 |-------------|----------|-------------|-------------|
 | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/overview_2011.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/overview_2012.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/overview_2013.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/overview_2014.png) |
@@ -193,6 +195,13 @@ On the regional side:
 ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/region.png)  
   
 #### 👁️ Observation:
+
+*Click on each photo for closer look*
+
+| Total Profit | Canada | Central Asia | South East Asia | North Asia | Central US | EMEA |  
+|-------------|----------|-------------|-------------|-------------|-------------|-------------|
+| ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/region_total_proft.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/region_canada.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/region_central_asia.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/region_southeast_asia.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/region_north_asia.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/region_central_us.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/region_emea.png) |
+
 <details>
  <summary>Closer look at Canada:</summary>
  
