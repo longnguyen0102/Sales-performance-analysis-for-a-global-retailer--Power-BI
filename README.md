@@ -156,30 +156,37 @@ Explain the step-by-step approach taken to solve the problem.
 
 ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/overview.png)  
 
-##### 📌 Analysis 1:  
-
-**Observation:**
+#### 👁️ Observation:
 
 | 2011 | 2012 | 2013 | 2014 |  
 |-------------|----------|-------------|-------------|
 | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/overview_2011.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/overview_2012.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/overview_2013.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/overview_2014.png) |
 
-| Time  | Segment | Region |  
-|-------------|----------|-------------|  
-| - Sales grew steadily from $2.26M in 2011 to $4.3M in 2014 — an increase of about 90%.  - Profit rose from $248.96K in 2011 to $504.17K in 2014 — more than doubling over the period.  - Profit margin remained stable, moving from 11% to 11.9%, indicating consistent profitability — a positive sign for sustainable business performance.  - From August to December, both Profit and Revenue increased. This growth was driven by: August being a demand-boosting period to stimulate consumer spending. The year-end holiday season, when consumers tend to spend more. September often marking the launch of new product models, prompting higher purchase activity.| - The Consumer segment consistently accounts for the largest share (47%–54% each year) → this segment remains the primary focus to drive profitability for the company.  - The Corporate segment ranks second (~28%–34%), followed by Home Office with the smallest share. | - Regions with high Profit Margins include Canada (21%–30%), North Asia (18.3%–20.8%), and Central Asia (16.9%–18.3%). Canada shows strong potential for market expansion, while North Asia and Central Asia are worth considering for further investment.  - Central US consistently generates the highest absolute Profit across years; however, its Profit Margin remains at an average level → optimizing costs could further improve profitability.  - SEA and EMEA are the weakest performers, showing both low Profit Margin and low Profit over the years → these regions should not be prioritized for expansion at this stage. |
+1. ⌚ Time:  
+ - Sales grew steadily from **$2.26M in 2011** to **$4.3M in 2014** — an increase of about **90%**.
+ - **Profit** rose from **$248.96K in 2011** to **$504.17K in 2014** — more than **doubling** over the period.
+ - **Profit margin** remained stable, moving from **11% to 11.9%**, indicating consistent profitability — a positive sign for sustainable business performance.
+ - From **August** to **December**, both Profit and Revenue increased. This growth was driven by:
+   - August being a demand-boosting period to stimulate consumer spending.
+   - The year-end holiday season, when consumers tend to spend more.
+   - September often marking the launch of new product models, prompting higher purchase activity.
 
+2. 🗂️ Segment
+ - The **Consumer** segment consistently accounts for the largest share (**47%–54%** each year) → this segment remains the primary focus to drive profitability for the company.
+ - The **Corporate** segment ranks second **(~28%–34%)**, followed by **Home Office** with the smallest share.
 
+3. 🏞️ Region
+ - Regions with high **Profit Margins** include **Canada (21%–30%)**, **North Asia (18.3%–20.8%)**, and **Central Asia (16.9%–18.3%)**. Canada shows strong potential for market expansion, while North Asia and Central Asia are worth considering for further investment.
+ - **Central US** consistently generates the highest absolute **Profit** across years; however, its **Profit Margin** remains at an average level → optimizing costs could further improve profitability.
+ - **SEA** and **EMEA** are the weakest performers, showing both low **Profit Margin** and low Profit over the years → these regions should not be prioritized for expansion at this stage.  
 
-- Recommendation: _Suggest actions based on insights._
-
-<details>
- <summary>Dashboard "Overview" in 2011, 2012, 2013, 2014:</summary>
-
- | 2011 | 2012 | 2013 | 2014 |  
- |-------------|----------|-------------|-------------|
- | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/overview_2011.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/overview_2012.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/overview_2013.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/overview_2014.png) |
-
-</details>
+#### ✔️ Recommendation:
+With steady year-over-year growth in **Sales and Profit**, along with stable **Profit Margins**, the company is on a healthy growth trajectory. Departments should continue to sustain this momentum to maintain stable performance.  
+The **Consumer segment** remains the key focus as it generates the highest profitability for the company. However, it is also recommended to introduce targeted promotions or special offers for **Corporate** and **Home Office** customers to maximize overall revenue.  
+On the regional side:  
+- **SEA** and **EMEA** should be reconsidered for further expansion, as both deliver relatively low Profit.  
+- **Canada** deserves attention: while its **Profit Margin** is high, its total **Profit** remains the lowest among regions.  
+- **North Asia** and **Central Asia** stand out as attractive opportunities for investment thanks to consistent **Profit Margins (16%–20%)** and relatively strong **Total Profit** compared to other regions.  
 
 #### 2️⃣ Dashboard 2 Preview  
 
