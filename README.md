@@ -210,17 +210,32 @@ On the regional side:
 
 #### ✔️ Recommendation:
 
-Based on the data, the **US** can be considered a strong candidate for short-term expansion. Its **Total Sales**, **Total Profit**, and **Return Rate** are all stable, making it suitable for near-term investment.  
-For the **medium term**, **North Asia** and **Central Asia** present good opportunities. Strategic approaches such as **flexible pricing** and **operational cost optimization** could further enhance performance in these regions.  
-In the long term, **LATAM (South and Central America)** could be explored through **small-scale pilot** projects before committing fully. The company should gradually build logistics networks to support customers, while running **demand-stimulation** campaigns to test market response and customer behavior prior to a full-scale entry.  
+- Based on the data, the **US** can be considered a strong candidate for short-term expansion. Its **Total Sales**, **Total Profit**, and **Return Rate** are all stable, making it suitable for near-term investment.  
+- For the **medium term**, **North Asia** and **Central Asia** present good opportunities. Strategic approaches such as **flexible pricing** and **operational cost optimization** could further enhance performance in these regions.  
+- In the long term, **LATAM (South and Central America)** could be explored through **small-scale pilot** projects before committing fully. The company should gradually build logistics networks to support customers, while running **demand-stimulation** campaigns to test market response and customer behavior prior to a full-scale entry.  
 
 #### 3️⃣ Dashboard 3 Preview  
 
 ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/product.png)
 
-##### 📌 Analysis 3:  
-- Observation: _Describe trends, key metrics, and patterns. Any insights from those observation_  
-- Recommendation: _Suggest actions based on insights._  
+#### 👁️ Observation:
+
+| Cisco Smart Phone, Full Size | Motorola Smart Phone, Full Size | Nokia Smart Phone, Full Size | Canon imageCLASS 2200 Advanced Copier | Apple Smart Phone | 
+|-------------|----------|-------------|-------------|-------------|
+| ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/product_cisco_smart_phone.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/product_motorola_smart_phone.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/product_nokia_smart_phone.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/product_canon.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/product_apple_smart_phone.png) |
+
+- Products in the **Technology** category dominate with **Total Sales of $4.7M**, **Total Profit of $0.7M**, and **Total Revenue of $4.7M**. At least 4 products from this group are among the Top 7 contributors to Profit, Sales, and Revenue. While **Office Supplies** and **Furniture** generate similar Sales and Revenue, Office Supplies delivers higher Profit **($0.5M vs. $0.3M)**.  
+- **"Cisco Smart Phone, Full Size"**, **"Motorola Smart Phone, Full Size"**, and **"Nokia Smart Phone, Full Size"** are in the Top 7 for Profit, Sales, and Revenue. These are **"Star products"** (high Sales and high Profit) that the company should focus on defending and expanding market share.
+- **"Canon imageCLASS 2200 Advanced Copier"** ranks **#1 in Profit** but only **#5 in Sales** → marketing efforts should be increased to boost its sales. However, attention is required as it has **a high Return Rate (20%)**.
+- **"Apple Smart Phone"** leads in **Sales and Revenue**, but does not appear in the **Top Profit** list. To continue selling this product, the company should **optimize cost structure** or **adjust pricing** to improve profitability.
+
+#### ✔️ Recommendation:
+
+  **Technology** remains the key product category for the company, as it generates both high revenue and profit. The other two categories also require tailored strategies to maximize revenue contribution.
+  Within the **Top 7 products**, **4–5 are from the Technology group**, reinforcing its strategic importance. Products such as **"Cisco Smart Phone, Full Size"**, **"Motorola Smart Phone"**, and **"Nokia Smart Phone, Full Size"** can be positioned as strategic core products.
+  Other products like **"Canon imageCLASS"** or **"Apple Smart Phone"** could also serve as flagship offerings if the company implements strategies to optimize pricing, such as:
+- Offering **special promotions** or **customer incentives** for these products.
+- **Negotiating with suppliers** to secure lower procurement costs, enabling more competitive pricing.
 
 ---
 
