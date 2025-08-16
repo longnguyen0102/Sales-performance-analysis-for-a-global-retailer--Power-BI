@@ -200,17 +200,11 @@ On the regional side:
 
 | Total Profit | Canada | Central Asia | South East Asia | North Asia | Central US | EMEA |  
 |-------------|----------|-------------|-------------|-------------|-------------|-------------|
-| ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/region_total_proft.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/region_canada.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/region_central_asia.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/region_southeast_asia.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/region_north_asia.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/region_central_us.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/region_emea.png) |
+| ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/region_total_profit.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/region_canada.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/region_central_asia.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/region_southeast_asia.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/region_north_asia.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/region_central_us.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/region_emea.png) |
 
-<details>
- <summary>Closer look at Canada:</summary>
- 
- ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/region_canada.png) 
- 
-</details>
 
-- Observation: _Describe trends, key metrics, and patterns. Any insights from those observation_  
-- Recommendation: _Suggest actions based on insights._  
+
+#### ✔️ Recommendation:
 
 #### 3️⃣ Dashboard 3 Preview  
 
