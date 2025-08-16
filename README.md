@@ -191,9 +191,15 @@ On the regional side:
 #### 2️⃣ Dashboard 2 Preview  
 
 ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/region.png)  
+  
+#### 👁️ Observation:
+<details>
+ <summary>Closer look at Canada:</summary>
+ 
+ ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/region_canada.png) 
+ 
+</details>
 
-
-##### 📌 Analysis 2:   
 - Observation: _Describe trends, key metrics, and patterns. Any insights from those observation_  
 - Recommendation: _Suggest actions based on insights._  
 
