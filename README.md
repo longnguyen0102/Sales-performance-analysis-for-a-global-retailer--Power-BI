@@ -54,7 +54,7 @@ Mention who might benefit from this project
 ### 📊 Data Structure & Relationships  
 
 #### 1️⃣ Tables Used:  
-Using 3 tables in .csv format
+Using all 3 tables in .csv format
 
 #### 2️⃣ Table Schema & Data Snapshot  
 
@@ -160,7 +160,17 @@ Explain the step-by-step approach taken to solve the problem.
 
 **Observation:**
 
-  
+| Time  | Segment | Region |  
+|-------------|----------|-------------|  
+| - Sales grew steadily from $2.26M in 2011 to $4.3M in 2014 — an increase of about 90%.  
+- Profit rose from $248.96K in 2011 to $504.17K in 2014 — more than doubling over the period.  
+- Profit margin remained stable, moving from 11% to 11.9%, indicating consistent profitability — a positive sign for sustainable business performance.  
+- From August to December, both Profit and Revenue increased. This growth was driven by: August being a demand-boosting period to stimulate consumer spending. The year-end holiday season, when consumers tend to spend more. September often marking the launch of new product models, prompting higher purchase activity.| - The Consumer segment consistently accounts for the largest share (47%–54% each year) → this segment remains the primary focus to drive profitability for the company.  - The Corporate segment ranks second (~28%–34%), followed by Home Office with the smallest share. | - Regions with high Profit Margins include Canada (21%–30%), North Asia (18.3%–20.8%), and Central Asia (16.9%–18.3%). Canada shows strong potential for market expansion, while North Asia and Central Asia are worth considering for further investment.  - Central US consistently generates the highest absolute Profit across years; however, its Profit Margin remains at an average level → optimizing costs could further improve profitability.  - SEA and EMEA are the weakest performers, showing both low Profit Margin and low Profit over the years → these regions should not be prioritized for expansion at this stage. |
+
+ | 2011 | 2012 | 2013 | 2014 |  
+ |-------------|----------|-------------|-------------|
+ | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/overview_2011.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/overview_2012.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/overview_2013.png) | ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/overview_2014.png) |
+
 - Recommendation: _Suggest actions based on insights._
 
 <details>
