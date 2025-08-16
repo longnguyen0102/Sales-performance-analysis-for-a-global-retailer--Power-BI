@@ -183,9 +183,9 @@ Explain the step-by-step approach taken to solve the problem.
  - **SEA** and **EMEA** are the weakest performers, showing both low **Profit Margin** and low Profit over the years → these regions should not be prioritized for expansion at this stage.  
 
 #### ✔️ Recommendation:
-With steady year-over-year growth in **Sales and Profit**, along with stable **Profit Margins**, the company is on a healthy growth trajectory. Departments should continue to sustain this momentum to maintain stable performance.  
-The **Consumer segment** remains the key focus as it generates the highest profitability for the company. However, it is also recommended to introduce targeted promotions or special offers for **Corporate** and **Home Office** customers to maximize overall revenue.  
-On the regional side:  
+-> With steady year-over-year growth in **Sales and Profit**, along with stable **Profit Margins**, the company is on a healthy growth trajectory. Departments should continue to sustain this momentum to maintain stable performance.  
+-> The **Consumer segment** remains the key focus as it generates the highest profitability for the company. However, it is also recommended to introduce targeted promotions or special offers for **Corporate** and **Home Office** customers to maximize overall revenue.  
+-> On the regional side:  
 - **SEA** and **EMEA** should be reconsidered for further expansion, as both deliver relatively low Profit.  
 - **Canada** deserves attention: while its **Profit Margin** is high, its total **Profit** remains the lowest among regions.  
 - **North Asia** and **Central Asia** stand out as attractive opportunities for investment thanks to consistent **Profit Margins (16%–20%)** and relatively strong **Total Profit** compared to other regions.  
@@ -231,9 +231,9 @@ On the regional side:
 
 #### ✔️ Recommendation:
 
-  **Technology** remains the key product category for the company, as it generates both high revenue and profit. The other two categories also require tailored strategies to maximize revenue contribution.
-  Within the **Top 7 products**, **4–5 are from the Technology group**, reinforcing its strategic importance. Products such as **"Cisco Smart Phone, Full Size"**, **"Motorola Smart Phone"**, and **"Nokia Smart Phone, Full Size"** can be positioned as strategic core products.
-  Other products like **"Canon imageCLASS"** or **"Apple Smart Phone"** could also serve as flagship offerings if the company implements strategies to optimize pricing, such as:
+-> **Technology** remains the key product category for the company, as it generates both high revenue and profit. The other two categories also require tailored strategies to maximize revenue contribution.
+-> Within the **Top 7 products**, **4–5 are from the Technology group**, reinforcing its strategic importance. Products such as **"Cisco Smart Phone, Full Size"**, **"Motorola Smart Phone"**, and **"Nokia Smart Phone, Full Size"** can be positioned as strategic core products.
+-> Other products like **"Canon imageCLASS"** or **"Apple Smart Phone"** could also serve as flagship offerings if the company implements strategies to optimize pricing, such as:
 - Offering **special promotions** or **customer incentives** for these products.
 - **Negotiating with suppliers** to secure lower procurement costs, enabling more competitive pricing.
 
