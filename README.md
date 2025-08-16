@@ -231,11 +231,11 @@ Explain the step-by-step approach taken to solve the problem.
 
 #### ✔️ Recommendation:
 
--> **Technology** remains the key product category for the company, as it generates both high revenue and profit. The other two categories also require tailored strategies to maximize revenue contribution.
--> Within the **Top 7 products**, **4–5 are from the Technology group**, reinforcing its strategic importance. Products such as **"Cisco Smart Phone, Full Size"**, **"Motorola Smart Phone"**, and **"Nokia Smart Phone, Full Size"** can be positioned as strategic core products.
--> Other products like **"Canon imageCLASS"** or **"Apple Smart Phone"** could also serve as flagship offerings if the company implements strategies to optimize pricing, such as:
-- Offering **special promotions** or **customer incentives** for these products.
-- **Negotiating with suppliers** to secure lower procurement costs, enabling more competitive pricing.
+-> **Technology** remains the key product category for the company, as it generates both high revenue and profit. The other two categories also require tailored strategies to maximize revenue contribution.  
+-> Within the **Top 7 products**, **4–5 are from the Technology group**, reinforcing its strategic importance. Products such as **"Cisco Smart Phone, Full Size"**, **"Motorola Smart Phone"**, and **"Nokia Smart Phone, Full Size"** can be positioned as strategic core products.  
+-> Other products like **"Canon imageCLASS"** or **"Apple Smart Phone"** could also serve as flagship offerings if the company implements strategies to optimize pricing, such as:  
+- Offering **special promotions** or **customer incentives** for these products.  
+- **Negotiating with suppliers** to secure lower procurement costs, enabling more competitive pricing.  
 
 ---
 
