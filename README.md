@@ -22,25 +22,18 @@ Tools Used: Power BI
 ### Objective:
 ### 📖 What is this project about? 
  
-- Provide a brief introduction to the project. Define the problem statement/ business question that this project will show and why it is important.
-- Write in bullet point format
-
- _Example:_
-
- This project analyzes sales trends and inventory control using SQL and Power BI. The objective is  
-✔️ Identify high-demand products and sales trends.  
-✔️ Optimize inventory levels to prevent overstocking or stockouts.  
-✔️ Provide actionable insights through Power BI dashboards.  
+- The Senior Manager needs a clear view of the company’s overall business performance in order to define market expansion strategies and make informed decisions on strategic product selection.  
+- Design a dashboard that enables stakeholders to address these needs effectively.  
+- This project analyzes sales, profit trends using Power BI. The objective is:  
+✔️ Gain an overall view of the company’s business performance from 2011 to 2014.    
+✔️ Analyze Profit, Revenue, and Sales at both product and category product to identify strategic products.  
+✔️ Explore regions and country-level markets to support decision-making on market expansion opportunities.
 
 ### 👤 Who is this project for?  
 
-Mention who might benefit from this project 
-
- _Example:_
-
-✔️ Data analysts & business analysts  
-✔️ Supply chain managers & inventory controllers  
-✔️ Decision-makers & stakeholders  
+✔️ Data analysts & business analysts.  
+✔️ Supply chain managers.   
+✔️ Decision-makers & stakeholders.  
 
 ---
 
