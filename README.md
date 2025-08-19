@@ -117,8 +117,6 @@ Using all 3 tables in .csv format
 
 Explain the step-by-step approach taken to solve the problem.  
 
-👉🏻 Insert a screenshot of the Design Thinking steps (Screenshot your Excel design thinking tables for better presentation).  
-
 ##### 1️⃣ Empathize  
 
 ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/Design%20Thinking/stage_1_5w1h_1.png)
