@@ -22,12 +22,13 @@ Tools Used: Power BI
 ### Objective:
 ### 📖 What is this project about? 
  
+- Real Canadian Superstore is a chain of supermarkets owned by Canadian food retailing giant Loblaw Companies. Its name is often shortened to Superstore.  
 - The Senior Manager needs a clear view of the company’s overall business performance in order to define market expansion strategies and make informed decisions on strategic product selection.  
 - Design a dashboard that enables stakeholders to address these needs effectively.  
 - This project analyzes sales, profit trends using Power BI. The objective is:  
-✔️ Gain an overall view of the company’s business performance from 2011 to 2014.    
+✔️ Gain an overall view of the company’s business performance from 2011 to 2014.  
 ✔️ Analyze Profit, Revenue, and Sales at both product and category product to identify strategic products.  
-✔️ Explore regions and country-level markets to support decision-making on market expansion opportunities.
+✔️ Explore regions and country-level markets to support decision-making on market expansion opportunities.  
 
 ### 👤 Who is this project for?  
 
