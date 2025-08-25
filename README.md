@@ -112,9 +112,7 @@ Using all 3 tables in .csv format
 
 ---
 
-## 🧠 Design Thinking Process  
-
-Explain the step-by-step approach taken to solve the problem.  
+## 🧠 Design Thinking Process   
 
 ##### 1️⃣ Empathize  
 
