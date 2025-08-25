@@ -133,7 +133,10 @@ Using all 3 tables in .csv format
 ![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/Design%20Thinking/stage_2_growth_formula.png)
 
 #### 3️⃣ Ideate  
-#### 4️⃣ Prototype and review  
+
+![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/Design%20Thinking/stage_3_brainstorming.png)
+
+![](https://github.com/longnguyen0102/photo/blob/main/SuperStore-power-bi/Design%20Thinking/stage_3_structure_idea.png)
 
 ---
 
