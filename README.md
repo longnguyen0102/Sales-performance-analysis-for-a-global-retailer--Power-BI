@@ -235,9 +235,19 @@ Using all 3 tables in .csv format
 
 ## 🔎 Final Conclusion & Recommendations  
 
-👉🏻 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following:  
+### 1️⃣ OVERVIEW:
+ 
+✔️ **Stable & Sustainable Growth:** Revenue nearly doubled and profit more than doubled from 2011–2014, while profit margins remained stable → the company is on a healthy growth trajectory.  
+✔️ **Consumer as the Main Driver:** Consumer segment remains the core contributor, but Corporate and Home Office should be further leveraged to diversify revenue streams and reduce dependency.  
+✔️ **Market Opportunities:** Canada, North Asia, and Central Asia show strong profit margins and are attractive for expansion, while SEA and EMEA underperform and should not be prioritized at this stage.  
 
-📌 Key Takeaways:  
-✔️ Recommendation 1  
-✔️ Recommendation 2  
-✔️ Recommendation 3
+### 2️⃣ REGION:
+✔️ **Canada** có biên lợi nhuận cao nhất (21%) và cân bằng across categories, nhưng quy mô doanh thu và số đơn hàng còn thấp → tiềm năng nhưng cần mở rộng thận trọng.  
+✔️ **Central US** dẫn đầu doanh thu (~$3M) nhưng biên lợi nhuận trung bình và một số danh mục (Furniture) âm, cho thấy dư địa tối ưu chi phí để cải thiện hiệu quả.  
+✔️ Chiến lược thị trường:  
+- Ngắn hạn: Tập trung Central US (ổn định, quy mô lớn).  
+- Trung hạn: North Asia & Central Asia (biên lợi nhuận tốt, cần tối ưu chi phí & giá linh hoạt).  
+- Dài hạn: LATAM với thử nghiệm quy mô nhỏ để giảm rủi ro.
+
+### 3️⃣ PRODUCT:
+**Technology** is the core product category, leading in both revenue and profit, with multiple items ranked in the Top 7. **Smartphones** from **Cisco, Motorola, and Nokia** are “Star products” that should be prioritized for market expansion. Meanwhile, **Canon imageCLASS** and **Apple Smart Phone** have the potential to become strategic products if pricing and cost structures are optimized.  
