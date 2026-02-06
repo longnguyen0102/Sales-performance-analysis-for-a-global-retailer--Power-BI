@@ -1,4 +1,4 @@
-# Analysis sales of SuperStore - a retailer | PowerBI  
+# Sales performance analysis for a global retailer | PowerBI  
 
 ---
  
