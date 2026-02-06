@@ -1,4 +1,4 @@
-# eCommerce Analysis sales of SuperStore using PowerBI  
+# Analysis sales of SuperStore - a retailer | PowerBI  
 
 ---
  
